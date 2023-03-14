@@ -1,10 +1,11 @@
 {
-  "channelId": "f44faeb29c19268115f43bb3e04a873ec483d6cd70a1adaff71905bb45135457",
+  "episodeId": "219bfa6aeace01d318d0226b7b01c9a810362e953134e39d80a000bc61dd5d9c",
   "guid": "https://historyofenglishpodcast.com/?p=9",
   "title": "Episode 1: Introduction",
   "description": "In this introductory episode, we look at the emergence of English as a global language and the evolution of the language from its Germanic origins. TRANSCRIPT",
   "pubDate": "Mon, 18 Jun 2012 20:09:38 +0000",
   "duration": "23:59",
+  "channelId": "f44faeb29c19268115f43bb3e04a873ec483d6cd70a1adaff71905bb45135457",
   "enclosure": {
     "type": "audio/mpeg",
     "url": "https://media.blubrry.com/historyofenglish/content.blubrry.com/historyofenglish/Ep01-Introduction2.mp3"

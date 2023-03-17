@@ -1,0 +1,51 @@
+{
+  "url": "https://gzzhanghao.github.io/podcasts/data/the-history-of-english/channel.json",
+  "title": "The History of English Podcast",
+  "description": "The Spoken History of a Global Language",
+  "image": "https://historyofenglishpodcast.com/wp-content/uploads/powerpress/HOE-Cover8a.jpg",
+  "link": "https://historyofenglishpodcast.com",
+  "episodes": [
+    {
+      "url": "https://gzzhanghao.github.io/podcasts/data/the-history-of-english/ep1.json",
+      "media": "https://media.blubrry.com/historyofenglish/content.blubrry.com/historyofenglish/Ep01-Introduction2.mp3",
+      "title": "Episode 1: Introduction",
+      "publishTime": "Mon, 18 Jun 2012 20:09:38 +0000",
+      "duration": 1439000,
+      "description": "In this introductory episode, we look at the emergence of English as a global language and the evolution of the language from its Germanic origins. TRANSCRIPT",
+      "image": "https://historyofenglishpodcast.com/wp-content/uploads/powerpress/HOE-Cover8a.jpg",
+      "link": "https://historyofenglishpodcast.com/2012/06/18/episode-1-introduction/",
+      "author": "Kevin Stroud",
+      "channelUrl": "https://gzzhanghao.github.io/podcasts/data/the-history-of-english/channel.json",
+      "episodeId": "https://historyofenglishpodcast.com/?p=9",
+      "captionUrl": "https://gzzhanghao.github.io/podcasts/data/the-history-of-english/ep1.cap"
+    },
+    {
+      "url": "https://gzzhanghao.github.io/podcasts/data/the-history-of-english/ep2.json",
+      "media": "https://media.blubrry.com/historyofenglish/content.blubrry.com/historyofenglish/Ep02-Indo-European-Discovery2.mp3",
+      "title": "Episode 2: The Indo-European Discovery",
+      "publishTime": "Mon, 25 Jun 2012 13:31:36 +0000",
+      "duration": 1981000,
+      "description": "The story of the discovery of the ancient language which gave rise to most of the languages of Europe, including English. TRANSCRIPT: EPISODE 2",
+      "image": "https://historyofenglishpodcast.com/wp-content/uploads/powerpress/HOE-Cover8a.jpg",
+      "link": "https://historyofenglishpodcast.com/2012/06/25/episode-2-the-indo-european-discovery-2/",
+      "author": "Kevin Stroud",
+      "channelUrl": "https://gzzhanghao.github.io/podcasts/data/the-history-of-english/channel.json",
+      "episodeId": "https://historyofenglishpodcast.com/?p=254",
+      "captionUrl": "https://gzzhanghao.github.io/podcasts/data/the-history-of-english/ep2.cap"
+    },    
+    {
+      "url": "https://gzzhanghao.github.io/podcasts/data/the-history-of-english/ep165.json",
+      "media": "https://media.blubrry.com/historyofenglish/content.blubrry.com/historyofenglish/Ep165-Glamorous_Grammar.mp3",
+      "title": "Episode 165: Glamorous Grammar",
+      "publishTime": "Mon, 30 Jan 2023 12:50:11 +0000",
+      "duration": 3694000,
+      "description": "William Bullokar composed the first formal grammar of the English language in 1586. Prior to that point, the concept of grammar had been largely restricted to Latin. Bullokar’s work extended the concept to English, but it did so by employing … <a href=\"https://historyofenglishpodcast.com/2023/01/30/episode-165-glamorous-grammar/\">Continue reading <span class=\"meta-nav\">→</span></a>",
+      "image": "https://historyofenglishpodcast.com/wp-content/uploads/powerpress/HOE-Cover8a.jpg",
+      "link": "https://historyofenglishpodcast.com/2023/01/30/episode-165-glamorous-grammar/",
+      "author": "Kevin Stroud",
+      "channelUrl": "https://gzzhanghao.github.io/podcasts/data/the-history-of-english/channel.json",
+      "episodeId": "https://historyofenglishpodcast.com/?p=1374",
+      "captionUrl": "https://gzzhanghao.github.io/podcasts/data/the-history-of-english/ep165.cap"
+    }        
+  ]
+}

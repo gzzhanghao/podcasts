@@ -20,7 +20,9 @@ of
 0 x
 English
 0 2i
-Podcast.
+Podcast
+0 0 1
+.
 u 16
 My
 0 i
@@ -30,7 +32,9 @@ is
 0 x
 Kevin
 0 1o
-Stroud,
+Stroud
+0 0
+,
 0 x
 your
 0 10
@@ -40,7 +44,9 @@ for
 0 l
 this
 0 1r
-podcast,
+podcast
+0 0
+,
 0 i
 which
 0 c
@@ -58,7 +64,9 @@ the
 0 x
 English
 0 20
-language.
+language
+0 0 1
+.
 x 16
 In
 0 x
@@ -66,7 +74,9 @@ this
 0 1x
 introductory
 0 26
-episode,
+episode
+0 0
+,
 0 o
 I
 0 r
@@ -94,7 +104,9 @@ which
 0 c
 will
 0 1x
-follow.
+follow
+0 0 1
+.
 1m 13
 Let
 0 9
@@ -118,7 +130,9 @@ a
 3 1f
 history
 0 2u
-podcast.
+podcast
+0 0 1
+.
 3 13
 The
 0 1f
@@ -130,7 +144,9 @@ to
 0 i
 be
 0 1r
-English,
+English
+0 0
+,
 0 x
 but
 0 l
@@ -154,7 +170,9 @@ aspects
 0 c
 of
 0 1z
-English.
+English
+0 0 1
+.
 1 1c
 It's
 0 l
@@ -180,9 +198,13 @@ grammar
 0 f
 or
 0 30
-pronunciation.
+pronunciation
+0 0 1
+.
 13 2o
-Instead,
+Instead
+0 0
+,
 0 x
 this
 0 c
@@ -202,7 +224,9 @@ of
 0 9
 the
 0 20
-language,
+language
+0 0
+,
 l x
 and
 0 c
@@ -238,7 +262,9 @@ spoke
 3 c
 the
 0 23
-language.
+language
+0 0 1
+.
 l 19
 So
 0 l
@@ -266,7 +292,9 @@ its
 0 1o
 earliest
 0 26
-ancestor,
+ancestor
+0 0
+,
 3 o
 the
 0 20
@@ -318,7 +346,9 @@ modern
 0 1r
 international
 0 23
-language.
+language
+0 0 1
+.
 u 16
 And
 0 i
@@ -332,7 +362,9 @@ of
 0 9
 the
 0 1r
-people,
+people
+0 0
+,
 0 1r
 places
 0 o
@@ -356,7 +388,9 @@ it's
 0 10
 become
 0 1u
-today.
+today
+0 0 1
+.
 10 19
 It's
 0 x
@@ -394,7 +428,9 @@ into
 0 f
 our
 0 20
-language.
+language
+0 0 1
+.
 1r 10
 And
 0 13
@@ -410,7 +446,9 @@ we
 0 x
 have
 0 1z
-today,
+today
+0 0
+,
 1 1f
 it's
 0 9
@@ -468,11 +506,15 @@ in
 0 9
 the
 0 1o
-world.
+world
+0 0 1
+.
 28 1o
 Technically
 0 20
-speaking,
+speaking
+0 0
+,
 0 1c
 English
 0 x
@@ -506,7 +548,9 @@ or
 0 19
 first
 0 2f
-languages.
+languages
+0 0 1
+.
 o 19
 But
 0 u
@@ -528,7 +572,9 @@ taken
 0 o
 into
 0 1x
-account,
+account
+0 0
+,
 0 13
 it
 0 1o
@@ -564,7 +610,9 @@ in
 0 6
 the
 0 1o
-world.
+world
+0 0 1
+.
 2e 1f
 Some
 0 1i
@@ -586,7 +634,9 @@ speak
 0 16
 English
 0 1u
-today.
+today
+0 0 1
+.
 1q o
 Of
 0 9
@@ -600,7 +650,9 @@ of
 0 x
 English
 0 1o
-speakers.
+speakers
+0 0 1
+.
 0 10
 It's
 0 1f
@@ -634,7 +686,9 @@ as
 0 u
 native
 0 29
-speakers.
+speakers
+0 0 1
+.
 o 16
 And
 0 u
@@ -672,7 +726,9 @@ facto
 0 1u
 international
 0 1x
-language.
+language
+0 0 1
+.
 2u 13
 English
 0 c
@@ -702,7 +758,9 @@ of
 0 o
 other
 0 2f
-languages.
+languages
+0 0 1
+.
 2a 10
 When
 0 x
@@ -720,7 +778,9 @@ plant
 0 f
 in
 0 20
-China,
+China
+0 0
+,
 0 16
 the
 0 1l
@@ -746,7 +806,9 @@ with
 0 l
 each
 0 1f
-other,
+other
+0 0
+,
 0 13
 even
 0 c
@@ -766,7 +828,9 @@ of
 0 o
 either
 0 1o
-group.
+group
+0 0 1
+.
 u 19
 And
 0 9
@@ -802,7 +866,9 @@ controller
 0 l
 in
 0 1l
-English,
+English
+0 0
+,
 0 1r
 not
 0 1i
@@ -810,7 +876,9 @@ Russian
 0 l
 or
 0 1x
-Italian,
+Italian
+0 0
+,
 0 1f
 because
 3 10
@@ -828,7 +896,9 @@ for
 0 20
 international
 0 2c
-aviation.
+aviation
+0 0 1
+.
 2g 10
 So
 0 i
@@ -868,7 +938,9 @@ international
 0 u
 lingua
 0 1u
-franca.
+franca
+0 0 1
+.
 2k 16
 So
 0 i
@@ -892,9 +964,13 @@ of
 0 1x
 English?
 10 1f
-Well,
+Well
+0 0
+,
 0 1i
-first,
+first
+0 0
+,
 0 16
 simply
 0 x
@@ -902,7 +978,9 @@ because
 0 f
 it's
 0 25
-interesting.
+interesting
+0 0 1
+.
 1 x
 It
 0 r
@@ -914,7 +992,9 @@ a
 0 1o
 fascinating
 0 27
-story,
+story
+0 0
+,
 2 16
 but
 0 u
@@ -942,11 +1022,15 @@ aspects
 0 c
 of
 0 1u
-English.
+English
+0 0 1
+.
 1x b
 I
 1 i
-mean,
+mean
+0 0
+,
 0 f
 why
 0 i
@@ -960,7 +1044,9 @@ of
 0 i
 us
 3 1o
-say,
+say
+0 0
+,
 0 o
 I
 0 o
@@ -1018,7 +1104,9 @@ We
 0 16
 have
 0 23
-mice.
+mice
+0 0 1
+.
 r 13
 Why
 0 9
@@ -1044,19 +1132,25 @@ We
 0 13
 have
 0 29
-oxen.
+oxen
+0 0 1
+.
 10 10
 We
 0 1i
 have
 0 1x
-man,
+man
+0 0
+,
 0 1f
 woman
 0 r
 and
 0 2e
-child.
+child
+0 0 1
+.
 1 10
 But
 0 c
@@ -1072,7 +1166,9 @@ woman's
 0 1c
 and
 0 2u
-child's.
+child's
+0 0 1
+.
 1p u
 Why
 0 c
@@ -1150,7 +1246,9 @@ phone?
 1c i
 I
 0 i
-mean,
+mean
+0 0
+,
 0 6
 I
 0 c
@@ -1172,7 +1270,9 @@ examples
 0 o
 seem
 0 1l
-endless.
+endless
+0 0 1
+.
 0 x
 But
 0 c
@@ -1198,9 +1298,13 @@ of
 0 c
 the
 0 20
-language.
+language
+0 0 1
+.
 2c x
-Now,
+Now
+0 0
+,
 0 c
 I've
 0 i
@@ -1240,7 +1344,9 @@ to
 0 r
 other
 0 2m
-languages,
+languages
+0 0
+,
 2 10
 but
 0 r
@@ -1250,7 +1356,9 @@ not
 0 1r
 necessarily
 0 1u
-true.
+true
+0 0 1
+.
 9 16
 There
 0 9
@@ -1260,7 +1368,9 @@ lots
 0 c
 of
 0 1o
-languages,
+languages
+0 0
+,
 0 i
 and
 0 i
@@ -1290,7 +1400,9 @@ or
 0 1l
 peculiar
 0 23
-rules.
+rules
+0 0 1
+.
 1x u
 But
 0 c
@@ -1326,7 +1438,9 @@ a
 0 1x
 massive
 0 2x
-vocabulary.
+vocabulary
+0 0 1
+.
 l 1o
 It's
 0 1f
@@ -1356,7 +1470,9 @@ that
 0 r
 English
 0 1u
-has,
+has
+0 0
+,
 f 16
 and
 0 i
@@ -1368,7 +1484,9 @@ tell
 0 c
 you
 0 1x
-something.
+something
+0 0 1
+.
 10 1i
 Unlike
 0 r
@@ -1382,7 +1500,9 @@ reject
 0 1f
 outside
 0 2l
-influences,
+influences
+0 0
+,
 3 1r
 English
 0 9
@@ -1418,11 +1538,15 @@ from
 0 o
 other
 0 1r
-languages,
+languages
+0 0
+,
 0 1o
 including
 0 1r
-words,
+words
+0 0
+,
 0 u
 and
 0 f
@@ -1434,7 +1558,9 @@ them
 0 13
 into
 0 1x
-English.
+English
+0 0 1
+.
 2z 1f
 About
 0 1x
@@ -1450,13 +1576,17 @@ the
 0 r
 year
 0 30
-1066,
+1066
+0 0
+,
 0 c
 to
 0 f
 be
 0 2c
-precise,
+precise
+0 0
+,
 9 1c
 an
 0 16
@@ -1480,7 +1610,9 @@ from
 0 10
 northern
 0 23
-France.
+France
+0 0 1
+.
 x 16
 And
 0 l
@@ -1524,7 +1656,9 @@ William
 0 c
 the
 0 1u
-Conqueror,
+Conqueror
+0 0
+,
 3 x
 the
 0 19
@@ -1542,7 +1676,9 @@ and
 0 13
 conquer
 0 1r
-England.
+England
+0 0 1
+.
 29 i
 The
 0 16
@@ -1564,11 +1700,17 @@ in
 0 1l
 England
 0 2i
-socially,
+socially
+0 0
+,
 0 29
-culturally,
+culturally
+0 0
+,
 0 3c
-economically,
+economically
+0 0
+,
 3 26
 legally
 0 u
@@ -1576,7 +1718,9 @@ and
 0 2o
 especially
 0 36
-linguistically.
+linguistically
+0 0 1
+.
 1p o
 The
 0 19
@@ -1634,7 +1778,9 @@ and
 0 1f
 supported
 0 1i
-William.
+William
+0 0 1
+.
 1o 10
 For
 0 9
@@ -1644,7 +1790,9 @@ next
 0 u
 three
 0 20
-centuries,
+centuries
+0 0
+,
 3 23
 French
 0 19
@@ -1662,15 +1810,21 @@ the
 0 10
 English
 0 1r
-government,
+government
+0 0
+,
 0 o
 the
 0 1o
-courts,
+courts
+0 0
+,
 0 o
 the
 0 2l
-aristocracy,
+aristocracy
+0 0
+,
 0 1c
 and
 0 f
@@ -1678,11 +1832,15 @@ the
 0 r
 ruling
 0 23
-class.
+class
+0 0 1
+.
 13 13
 In
 0 10
-fact,
+fact
+0 0
+,
 0 f
 it
 0 l
@@ -1696,7 +1854,9 @@ the
 0 x
 late
 3 3u
-1300s,
+1300s
+0 0
+,
 3 1c
 around
 0 9
@@ -1738,7 +1898,9 @@ English
 0 2c
 exclusively
 0 1u
-again.
+again
+0 0 1
+.
 2i 16
 What
 0 f
@@ -1766,7 +1928,9 @@ throughout
 0 9
 the
 0 2o
-podcast.
+podcast
+0 0 1
+.
 x 23
 Language
 0 10
@@ -1778,13 +1942,17 @@ not
 0 l
 about
 3 1u
-numbers.
+numbers
+0 0 1
+.
 0 x
 It's
 0 x
 about
 0 1x
-power.
+power
+0 0 1
+.
 13 l
 A
 0 1l
@@ -1826,7 +1994,9 @@ learn
 0 f
 their
 0 1x
-language.
+language
+0 0 1
+.
 13 13
 We
 0 i
@@ -1886,9 +2056,13 @@ in
 0 10
 Western
 0 1r
-Europe.
+Europe
+0 0 1
+.
 13 2l
-Today,
+Today
+0 0
+,
 0 19
 almost
 0 1r
@@ -1898,13 +2072,17 @@ in
 0 1o
 continental
 0 13
-Europe,
+Europe
+0 0
+,
 0 x
 west
 0 c
 of
 0 1l
-Germany,
+Germany
+0 0
+,
 3 1r
 speaks
 0 9
@@ -1918,7 +2096,9 @@ evolved
 0 r
 from
 0 1l
-Latin,
+Latin
+0 0
+,
 3 10
 the
 0 1u
@@ -1926,7 +2106,9 @@ so-called
 0 1o
 romance
 0 2i
-languages.
+languages
+0 0 1
+.
 13 13
 We
 0 13
@@ -1956,7 +2138,9 @@ and
 0 1x
 21st
 0 2l
-centuries.
+centuries
+0 0 1
+.
 x 16
 The
 0 u
@@ -1998,7 +2182,9 @@ world
 0 c
 at
 0 26
-large.
+large
+0 0 1
+.
 3 1o
 Yet
 0 1f
@@ -2028,7 +2214,9 @@ other
 0 i
 in
 0 1x
-English.
+English
+0 0 1
+.
 1z 1l
 It's
 0 1c
@@ -2048,7 +2236,9 @@ because
 0 o
 of
 0 1r
-power,
+power
+0 0
+,
 0 2l
 sometimes
 0 1l
@@ -2058,13 +2248,17 @@ or
 0 16
 political
 0 1r
-power,
+power
+0 0
+,
 0 26
 sometimes
 0 1o
 economic
 0 1u
-power,
+power
+0 0
+,
 0 2r
 sometimes
 0 1r
@@ -2074,7 +2268,9 @@ or
 0 1c
 cultural
 0 1w
-power.
+power
+0 0 1
+.
 1 10
 But
 0 i
@@ -2112,7 +2308,9 @@ of
 0 9
 the
 0 22
-language.
+language
+0 0 1
+.
 1 13
 That
 0 10
@@ -2144,9 +2342,13 @@ arrived
 0 o
 in
 0 3i
-1066.
+1066
+0 0 1
+.
 1r 2o
-Afterwards,
+Afterwards
+0 0
+,
 0 1c
 French
 0 i
@@ -2170,13 +2372,17 @@ language
 0 c
 of
 0 1i
-England.
+England
+0 0 1
+.
 25 1f
 During
 0 l
 that
 0 20
-period,
+period
+0 0
+,
 0 1o
 English
 0 x
@@ -2196,7 +2402,9 @@ a
 0 1f
 distinct
 0 23
-language.
+language
+0 0 1
+.
 1m u
 It
 0 i
@@ -2234,7 +2442,9 @@ dialect
 0 9
 of
 0 1u
-French.
+French
+0 0 1
+.
 r 16
 It
 0 1o
@@ -2250,7 +2460,9 @@ of
 0 x
 French
 0 26
-words,
+words
+0 0
+,
 9 19
 but
 0 f
@@ -2260,13 +2472,17 @@ didn't
 0 19
 become
 0 1r
-French.
+French
+0 0 1
+.
 3 u
 It
 0 1r
 remained
 0 2c
-English,
+English
+0 0
+,
 3 1l
 albeit
 0 9
@@ -2280,7 +2496,9 @@ version
 0 c
 of
 0 1u
-English.
+English
+0 0 1
+.
 13 16
 It
 0 19
@@ -2300,7 +2518,9 @@ an
 0 1f
 enhanced
 0 2o
-vocabulary.
+vocabulary
+0 0 1
+.
 13 10
 The
 0 19
@@ -2362,7 +2582,9 @@ as
 0 1f
 Middle
 0 1x
-English.
+English
+0 0 1
+.
 r 13
 And
 0 o
@@ -2406,7 +2628,9 @@ subsequently
 0 x
 dying
 0 1r
-out.
+out
+0 0 1
+.
 2h u
 The
 0 x
@@ -2430,7 +2654,9 @@ the
 0 u
 English
 0 20
-language.
+language
+0 0 1
+.
 r 1f
 But
 0 10
@@ -2446,7 +2672,9 @@ evolving
 0 c
 and
 0 2a
-changing.
+changing
+0 0 1
+.
 2 1f
 It's
 0 r
@@ -2468,7 +2696,9 @@ gradual
 0 f
 and
 0 1r
-subtle,
+subtle
+0 0
+,
 3 1c
 not
 0 o
@@ -2494,11 +2724,15 @@ conquest
 0 9
 of
 0 1l
-England.
+England
+0 0 1
+.
 22 u
 In
 0 10
-fact,
+fact
+0 0
+,
 0 1r
 linguists
 0 1i
@@ -2526,7 +2760,9 @@ most
 0 1l
 languages
 0 2l
-experience.
+experience
+0 0 1
+.
 16 1o
 That
 0 1f
@@ -2556,7 +2792,9 @@ a
 0 x
 thousand
 0 1f
-years,
+years
+0 0
+,
 0 o
 to
 0 9
@@ -2622,7 +2860,9 @@ natural
 0 13
 language
 0 1x
-change.
+change
+0 0 1
+.
 i 13
 And
 0 o
@@ -2638,7 +2878,9 @@ applies
 0 c
 to
 0 20
-English.
+English
+0 0 1
+.
 1p r
 As
 0 9
@@ -2646,7 +2888,9 @@ I
 0 x
 mentioned
 0 1r
-before,
+before
+0 0
+,
 3 19
 there
 0 o
@@ -2682,7 +2926,9 @@ as
 0 19
 Middle
 0 1u
-English.
+English
+0 0 1
+.
 13 1f
 There's
 0 19
@@ -2704,7 +2950,9 @@ version
 0 c
 of
 0 10
-English,
+English
+0 0
+,
 0 r
 which
 0 c
@@ -2718,7 +2966,9 @@ called
 0 1f
 Modern
 0 1r
-English.
+English
+0 0 1
+.
 f 1c
 So
 0 o
@@ -2738,9 +2988,13 @@ keep
 0 c
 in
 0 1u
-mind.
+mind
+0 0 1
+.
 2l 1f
-Now,
+Now
+0 0
+,
 0 r
 if
 0 f
@@ -2772,11 +3026,15 @@ periods
 0 c
 of
 0 20
-English.
+English
+0 0 1
+.
 c u
 Old
 0 13
-English,
+English
+0 0
+,
 0 x
 middle
 0 r
@@ -2786,7 +3044,9 @@ and
 0 r
 modern
 0 1u
-English,
+English
+0 0
+,
 0 13
 and
 0 c
@@ -2810,7 +3070,9 @@ Shakespeare
 3 16
 belonged
 0 1l
-to.
+to
+0 0 1
+.
 i 1c
 I
 0 1o
@@ -2838,11 +3100,15 @@ or
 0 10
 middle
 0 1x
-English.
+English
+0 0 1
+.
 10 13
 In
 0 19
-fact,
+fact
+0 0
+,
 0 l
 I
 0 c
@@ -2868,7 +3134,9 @@ the
 0 10
 correct
 0 1r
-answer,
+answer
+0 0
+,
 0 1c
 which
 0 10
@@ -2876,7 +3144,9 @@ is
 0 16
 modern
 0 1u
-English.
+English
+0 0 1
+.
 o 29
 Shakespeare
 3 f
@@ -2916,9 +3186,13 @@ for
 0 6
 a
 0 2u
-translation.
+translation
+0 0 1
+.
 1x u
-Now,
+Now
+0 0
+,
 0 6
 I
 0 i
@@ -2932,7 +3206,9 @@ you
 0 i
 will
 0 1u
-say,
+say
+0 0
+,
 0 13
 hold
 0 c
@@ -2940,7 +3216,9 @@ on
 0 6
 a
 0 10
-minute,
+minute
+0 0
+,
 0 i
 I
 0 i
@@ -2954,7 +3232,9 @@ to
 0 l
 read
 0 2c
-Shakespeare.
+Shakespeare
+0 0 1
+.
 0 1f
 But
 0 o
@@ -3010,7 +3290,9 @@ the
 0 16
 language
 0 2c
-itself.
+itself
+0 0 1
+.
 u 19
 There
 0 9
@@ -3032,7 +3314,9 @@ conversational
 0 2c
 contemporary
 0 1o
-English,
+English
+0 0
+,
 0 u
 and
 0 l
@@ -3044,7 +3328,9 @@ can
 0 c
 be
 0 1x
-helpful,
+helpful
+0 0
+,
 3 x
 but
 0 i
@@ -3052,7 +3338,9 @@ they're
 0 r
 not
 0 2o
-necessary.
+necessary
+0 0 1
+.
 f 16
 If
 0 i
@@ -3070,7 +3358,9 @@ time
 0 c
 and
 0 10
-effort,
+effort
+0 0
+,
 0 r
 you
 0 l
@@ -3112,7 +3402,9 @@ of
 0 c
 the
 0 1u
-story.
+story
+0 0 1
+.
 3p 1c
 Another
 0 16
@@ -3138,11 +3430,15 @@ King
 0 13
 James
 0 23
-Bible.
+Bible
+0 0 1
+.
 9 1i
 Once
 0 x
-again,
+again
+0 0
+,
 0 o
 there
 0 i
@@ -3172,7 +3468,9 @@ easier
 0 c
 to
 0 1n
-read,
+read
+0 0
+,
 1 10
 but
 0 l
@@ -3188,7 +3486,9 @@ you're
 0 i
 so
 0 1i
-inclined.
+inclined
+0 0 1
+.
 3 l
 You
 0 o
@@ -3214,7 +3514,9 @@ without
 0 9
 a
 0 2o
-translation.
+translation
+0 0 1
+.
 2h 19
 Now
 0 1x
@@ -3248,7 +3550,9 @@ and
 0 u
 early
 0 36
-1600s.
+1600s
+0 0 1
+.
 f 19
 So
 0 l
@@ -3270,7 +3574,9 @@ modern
 0 r
 English
 0 1r
-period.
+period
+0 0 1
+.
 0 u
 And
 0 u
@@ -3312,7 +3618,9 @@ and
 0 1x
 contemporary
 0 1u
-English.
+English
+0 0 1
+.
 x 13
 But
 0 x
@@ -3352,7 +3660,9 @@ and
 0 19
 century
 0 26
-works.
+works
+0 0 1
+.
 1m 1i
 But
 0 i
@@ -3388,7 +3698,9 @@ to
 0 f
 the
 0 3o
-1300s,
+1300s
+0 0
+,
 0 16
 we
 0 i
@@ -3410,7 +3722,9 @@ as
 0 19
 Middle
 0 1o
-English,
+English
+0 0
+,
 3 x
 the
 0 19
@@ -3426,7 +3740,9 @@ conquest
 0 c
 of
 0 1l
-England.
+England
+0 0 1
+.
 1i u
 And
 0 9
@@ -3462,11 +3778,15 @@ words
 0 c
 were
 0 26
-pronounced,
+pronounced
+0 0
+,
 3 2c
 especially
 0 2c
-vowels.
+vowels
+0 0 1
+.
 20 13
 For
 0 o
@@ -3478,7 +3798,9 @@ around
 0 9
 the
 0 i
-year,
+year
+0 0
+,
 0 2x
 1500
 3 1f
@@ -3492,13 +3814,17 @@ the
 0 10
 British
 0 1f
-Isles,
+Isles
+0 0
+,
 0 1l
 primarily
 0 c
 in
 0 19
-England,
+England
+0 0
+,
 0 u
 and
 0 o
@@ -3516,7 +3842,9 @@ south
 0 c
 of
 0 10
-England,
+England
+0 0
+,
 0 l
 in
 0 c
@@ -3524,7 +3852,9 @@ and
 0 r
 around
 0 1x
-London,
+London
+0 0
+,
 f 13
 they
 0 r
@@ -3544,7 +3874,9 @@ pronounced
 0 o
 their
 0 20
-vowels.
+vowels
+0 0 1
+.
 3 16
 This
 0 9
@@ -3560,7 +3892,9 @@ great
 0 10
 vowel
 0 1r
-shift.
+shift
+0 0 1
+.
 1b 1i
 This
 0 1l
@@ -3600,7 +3934,9 @@ to
 0 x
 modern
 0 1o
-English.
+English
+0 0 1
+.
 1r 10
 So
 0 i
@@ -3616,7 +3952,9 @@ sound
 0 1i
 like?
 1v x
-Well,
+Well
+0 0
+,
 0 i
 one
 0 9
@@ -3658,7 +3996,9 @@ the
 0 1c
 language
 0 20
-sounded.
+sounded
+0 0 1
+.
 1e 13
 But
 0 1i
@@ -3666,7 +4006,9 @@ first
 3 i
 a
 0 26
-disclaimer.
+disclaimer
+0 0 1
+.
 r u
 I
 0 o
@@ -3698,9 +4040,13 @@ or
 0 f
 old
 0 1r
-English.
+English
+0 0 1
+.
 o 10
-Again,
+Again
+0 0
+,
 3 i
 my
 0 u
@@ -3714,7 +4060,9 @@ on
 0 6
 the
 3 1f
-history.
+history
+0 0 1
+.
 3 r
 Not
 0 f
@@ -3744,9 +4092,13 @@ consonants
 0 f
 were
 0 2o
-enunciated.
+enunciated
+0 0 1
+.
 r 1u
-However,
+However
+0 0
+,
 0 f
 I
 0 x
@@ -3790,7 +4142,9 @@ the
 0 19
 language
 0 23
-sounded.
+sounded
+0 0 1
+.
 1x 1c
 So
 0 f
@@ -3808,7 +4162,9 @@ evolution
 0 9
 of
 0 1l
-English,
+English
+0 0
+,
 0 o
 I
 0 o
@@ -3852,19 +4208,25 @@ of
 0 u
 Middle
 0 1r
-English,
+English
+0 0
+,
 0 10
 The
 0 1i
 Canterbury
 0 1l
-Tales,
+Tales
+0 0
+,
 0 o
 by
 0 x
 Geoffrey
 0 23
-Chaucer.
+Chaucer
+0 0 1
+.
 1v 1c
 It's
 0 10
@@ -3886,7 +4248,9 @@ Tales
 0 c
 in
 0 1o
-school.
+school
+0 0 1
+.
 3 i
 I
 0 i
@@ -3894,7 +4258,9 @@ know
 0 c
 I
 0 1r
-did.
+did
+0 0 1
+.
 c 13
 But
 0 i
@@ -3934,7 +4300,9 @@ in
 0 9
 the
 0 36
-1300s.
+1300s
+0 0 1
+.
 2h 10
 The
 0 13
@@ -3984,7 +4352,9 @@ at
 0 1i
 Canterbury
 0 29
-Cathedral.
+Cathedral
+0 0 1
+.
 1s u
 The
 0 13
@@ -4004,7 +4374,9 @@ of
 0 9
 the
 0 13
-book,
+book
+0 0
+,
 3 x
 as
 0 c
@@ -4026,25 +4398,35 @@ meeting
 0 9
 the
 0 21
-Pilgrims.
+Pilgrims
+0 0 1
+.
 2 10
 In
 0 l
 this
 0 1u
-instance,
+instance
+0 0
+,
 3 o
 a
 0 1o
-knight.
+knight
+0 0 1
+.
 3g l
 A
 0 w
-night.
+night
+0 0 1
+.
 1 o
 There
 0 19
-was.
+was
+0 0 1
+.
 3 i
 And
 0 9
@@ -4058,7 +4440,9 @@ worthy
 0 1l
 man
 3 x
-who,
+who
+0 0
+,
 0 u
 from
 0 c
@@ -4078,25 +4462,33 @@ to
 0 r
 ride
 0 16
-out,
+out
+0 0
+,
 3 o
 he
 0 19
 loved
 0 2l
-chivalry,
+chivalry
+0 0
+,
 3 1i
 truth
 0 c
 and
 3 1f
-honour,
+honour
+0 0
+,
 0 1o
 freedom
 0 o
 and
 0 2l
-courtesy.
+courtesy
+0 0 1
+.
 c 19
 He
 0 x
@@ -4108,7 +4500,9 @@ in
 0 l
 his
 0 1c
-Lords,
+Lords
+0 0
+,
 0 29
 wars
 0 13
@@ -4116,7 +4510,9 @@ and
 0 f
 in
 0 i
-them.
+them
+0 0 1
+.
 0 c
 He
 0 i
@@ -4160,7 +4556,9 @@ for
 0 r
 his
 0 30
-worthiness.
+worthiness
+0 0 1
+.
 40 r
 Now
 0 r
@@ -4216,7 +4614,9 @@ of
 0 13
 Middle
 0 1u
-English.
+English
+0 0 1
+.
 3r l
 I
 0 1b
@@ -4268,7 +4668,9 @@ truth
 0 u
 and
 0 1i
-honour,
+honour
+0 0
+,
 3 26
 freedom
 0 x
@@ -4334,7 +4736,9 @@ for
 0 r
 his
 0 27
-worthiness.
+worthiness
+0 0 1
+.
 4r x
 That
 0 i
@@ -4348,7 +4752,9 @@ of
 0 x
 middle
 0 1l
-English.
+English
+0 0 1
+.
 10 13
 I
 0 10
@@ -4390,7 +4796,9 @@ from
 0 u
 modern
 0 1x
-English.
+English
+0 0 1
+.
 3 13
 The
 0 10
@@ -4404,7 +4812,9 @@ are
 0 o
 very
 0 26
-similar.
+similar
+0 0 1
+.
 3 19
 The
 0 19
@@ -4414,9 +4824,13 @@ difference
 0 r
 is
 0 2u
-pronunciation.
+pronunciation
+0 0 1
+.
 1v u
-Again.
+Again
+0 0 1
+.
 0 f
 There
 0 f
@@ -4430,7 +4844,9 @@ when
 0 13
 certain
 0 1f
-words,
+words
+0 0
+,
 0 f
 and
 0 1l
@@ -4438,7 +4854,9 @@ especially
 0 c
 the
 0 1c
-vowels,
+vowels
+0 0
+,
 0 f
 were
 0 1f
@@ -4448,7 +4866,9 @@ differently
 0 l
 than
 0 1r
-today.
+today
+0 0 1
+.
 2z 16
 There
 0 l
@@ -4462,7 +4882,9 @@ components
 0 c
 to
 0 20
-language.
+language
+0 0 1
+.
 c 19
 The
 0 10
@@ -4472,11 +4894,15 @@ that
 0 f
 are
 0 1k
-spoken,
+spoken
+0 0
+,
 1 c
 the
 0 2r
-vocabulary,
+vocabulary
+0 0
+,
 c 13
 the
 0 f
@@ -4494,7 +4920,9 @@ are
 0 o
 put
 0 1u
-together,
+together
+0 0
+,
 3 i
 the
 0 20
@@ -4518,11 +4946,15 @@ are
 0 13
 actually
 0 1l
-spoken.
+spoken
+0 0 1
+.
 3 o
 The
 0 2u
-pronunciation.
+pronunciation
+0 0 1
+.
 1l 10
 The
 0 10
@@ -4544,7 +4976,9 @@ to
 0 r
 modern
 0 1u
-English.
+English
+0 0 1
+.
 9 1o
 It's
 0 c
@@ -4560,7 +4994,9 @@ the
 0 u
 biggest
 0 29
-difference.
+difference
+0 0 1
+.
 2d x
 Let
 0 9
@@ -4572,7 +5008,9 @@ you
 0 x
 another
 0 23
-example.
+example
+0 0 1
+.
 l 10
 I'm
 0 o
@@ -4610,13 +5048,17 @@ evolution
 0 9
 of
 0 1m
-English.
+English
+0 0 1
+.
 2 u
 The
 0 16
 Lord's
 0 20
-Prayer.
+Prayer
+0 0 1
+.
 r r
 I'm
 0 o
@@ -4640,7 +5082,9 @@ particular
 0 13
 religious
 0 1u
-purposes,
+purposes
+0 0
+,
 0 x
 but
 0 u
@@ -4666,11 +5110,15 @@ different
 3 1f
 historical
 0 29
-languages,
+languages
+0 0
+,
 3 2c
 including
 0 1o
-modern,
+modern
+0 0
+,
 0 1f
 middle
 0 16
@@ -4678,7 +5126,9 @@ and
 0 u
 old
 0 1u
-English.
+English
+0 0 1
+.
 1u l
 The
 0 u
@@ -4702,7 +5152,9 @@ of
 0 10
 Common
 0 1o
-Prayer.
+Prayer
+0 0 1
+.
 l 19
 So
 0 o
@@ -4716,17 +5168,23 @@ before
 0 1o
 Shakespeare's
 0 26
-writings.
+writings
+0 0 1
+.
 1q x
 Here
 0 9
 it
 0 1l
-is.
+is
+0 0 1
+.
 19 13
 Our
 0 1f
-Father,
+Father
+0 0
+,
 0 r
 who
 0 r
@@ -4734,7 +5192,9 @@ art
 0 c
 in
 0 1i
-heaven,
+heaven
+0 0
+,
 3 1r
 hallowed
 0 i
@@ -4742,13 +5202,17 @@ be
 0 l
 thy
 0 1r
-name.
+name
+0 0 1
+.
 3 1f
 Thy
 0 16
 kingdom
 0 1e
-come.
+come
+0 0 1
+.
 1 r
 Thy
 0 f
@@ -4770,7 +5234,9 @@ is
 0 f
 in
 0 1o
-heaven.
+heaven
+0 0 1
+.
 10 19
 Give
 0 i
@@ -4822,7 +5288,9 @@ not
 0 u
 into
 0 2i
-temptation,
+temptation
+0 0
+,
 0 1c
 but
 0 16
@@ -4832,7 +5300,9 @@ us
 0 x
 from
 0 1l
-evil.
+evil
+0 0 1
+.
 30 1o
 Now
 0 l
@@ -4840,11 +5310,15 @@ in
 0 r
 Middle
 0 1o
-English.
+English
+0 0 1
+.
 2x u
 Your
 0 1c
-father,
+father
+0 0
+,
 0 19
 that
 0 u
@@ -4852,7 +5326,9 @@ art
 0 c
 in
 0 x
-heaven,
+heaven
+0 0
+,
 19 1r
 hallowed
 3 o
@@ -4860,7 +5336,9 @@ be
 0 c
 thy
 3 10
-name.
+name
+0 0 1
+.
 1l 19
 Thy
 0 19
@@ -4870,7 +5348,9 @@ come
 0 x
 to
 3 o
-be.
+be
+0 0 1
+.
 0 f
 Thy
 3 1u
@@ -4884,7 +5364,9 @@ as
 0 c
 in
 3 1b
-heaven.
+heaven
+0 0 1
+.
 17 10
 You
 3 i
@@ -4900,7 +5382,9 @@ this
 0 13
 day
 3 o
-our.
+our
+0 0 1
+.
 0 1x
 Bread
 f x
@@ -4936,17 +5420,23 @@ not
 0 10
 into
 0 2x
-temptation,
+temptation
+0 0
+,
 0 19
 but
 0 1f
 deliver
 0 r
-us.
+us
+0 0 1
+.
 0 1c
 From
 0 1l
-evil.
+evil
+0 0 1
+.
 4e 1l
 So
 0 o
@@ -4956,7 +5446,9 @@ you
 0 i
 can
 0 1c
-hear,
+hear
+0 0
+,
 0 1c
 middle
 0 13
@@ -4974,7 +5466,9 @@ we
 0 r
 speak
 0 1f
-today,
+today
+0 0
+,
 0 10
 but
 0 l
@@ -5002,7 +5496,9 @@ form
 0 c
 of
 0 1r
-English.
+English
+0 0 1
+.
 1m 10
 But
 0 i
@@ -5036,7 +5532,9 @@ before
 0 u
 middle
 0 1l
-English,
+English
+0 0
+,
 0 1x
 before
 0 f
@@ -5054,7 +5552,9 @@ French
 3 9
 in
 0 1u
-Britain,
+Britain
+0 0
+,
 f 1l
 we
 0 16
@@ -5086,7 +5586,9 @@ English
 0 c
 at
 0 1j
-all.
+all
+0 0 1
+.
 2 10
 But
 0 9
@@ -5104,7 +5606,9 @@ version
 0 9
 of
 0 1c
-English,
+English
+0 0
+,
 0 x
 which
 0 c
@@ -5120,7 +5624,9 @@ English
 0 l
 or
 0 2x
-Anglo-Saxon.
+Anglo-Saxon
+0 0 1
+.
 2v 16
 You've
 0 19
@@ -5138,7 +5644,9 @@ a
 0 1l
 Germanic
 0 1u
-language,
+language
+0 0
+,
 0 10
 but
 0 c
@@ -5156,7 +5664,9 @@ what
 0 l
 that
 0 26
-means.
+means
+0 0 1
+.
 i 1c
 Does
 0 f
@@ -5172,11 +5682,15 @@ from
 0 1r
 German?
 3 1i
-No,
+No
+0 0
+,
 0 o
 not
 0 27
-exactly.
+exactly
+0 0 1
+.
 2 x
 It
 0 r
@@ -5190,9 +5704,13 @@ like
 0 13
 modern
 0 1l
-German,
+German
+0 0
+,
 0 1r
-Dutch,
+Dutch
+0 0
+,
 0 20
 Swedish
 0 o
@@ -5228,13 +5746,17 @@ Germanic
 0 1f
 or
 0 30
-Proto-germanic.
+Proto-germanic
+0 0 1
+.
 3 f
 To
 0 f
 be
 0 2f
-precise.
+precise
+0 0 1
+.
 i 1o
 So
 3 19
@@ -5248,7 +5770,9 @@ come
 0 l
 from
 0 1l
-German,
+German
+0 0
+,
 0 x
 nor
 0 o
@@ -5260,7 +5784,9 @@ come
 0 l
 from
 0 1x
-English.
+English
+0 0 1
+.
 3 1f
 They
 0 13
@@ -5274,11 +5800,15 @@ an
 0 16
 even
 0 1f
-older,
+older
+0 0
+,
 0 16
 shared
 0 23
-language.
+language
+0 0 1
+.
 u 1f
 So
 0 c
@@ -5304,7 +5834,9 @@ time
 0 f
 we
 0 1u
-go,
+go
+0 0
+,
 0 x
 the
 0 16
@@ -5320,7 +5852,9 @@ sounds
 0 o
 like
 0 1z
-German,
+German
+0 0
+,
 1 20
 because
 0 c
@@ -5336,7 +5870,9 @@ time
 0 c
 we
 0 1i
-go,
+go
+0 0
+,
 0 o
 the
 0 l
@@ -5348,7 +5884,9 @@ have
 0 c
 in
 0 1r
-common.
+common
+0 0 1
+.
 2o r
 Old
 0 u
@@ -5364,7 +5902,9 @@ the
 0 x
 Anglo
 0 20
-Saxons,
+Saxons
+0 0
+,
 0 x
 who
 0 o
@@ -5388,7 +5928,9 @@ modern
 0 i
 day
 3 29
-Denmark.
+Denmark
+0 0 1
+.
 x 13
 They
 0 f
@@ -5416,7 +5958,9 @@ dominated
 0 16
 central
 0 19
-Europe,
+Europe
+0 0
+,
 0 x
 east
 0 c
@@ -5424,7 +5968,9 @@ of
 0 c
 the
 0 1u
-Rhine.
+Rhine
+0 0 1
+.
 c 13
 And
 0 f
@@ -5452,7 +5998,9 @@ and
 0 u
 fifth
 0 2f
-centuries,
+centuries
+0 0
+,
 3 10
 the
 0 1c
@@ -5466,7 +6014,9 @@ into
 0 13
 Western
 0 1i
-Europe,
+Europe
+0 0
+,
 0 19
 into
 0 c
@@ -5482,7 +6032,9 @@ by
 0 9
 the
 0 23
-Romans.
+Romans
+0 0 1
+.
 o 1c
 This
 0 1f
@@ -5506,7 +6058,9 @@ today
 0 1c
 as
 0 1i
-England.
+England
+0 0 1
+.
 1r 16
 What
 3 16
@@ -5534,7 +6088,9 @@ an
 0 1f
 outright
 0 2f
-invasion.
+invasion
+0 0 1
+.
 x 1r
 Beginning
 0 9
@@ -5544,7 +6100,9 @@ the
 0 x
 fifth
 0 1l
-century,
+century
+0 0
+,
 3 1f
 these
 0 1o
@@ -5572,7 +6130,9 @@ Celtic
 0 19
 speaking
 0 23
-Britons,
+Britons
+0 0
+,
 0 13
 and
 0 f
@@ -5586,7 +6146,9 @@ independent
 0 26
 Anglo-Saxon
 0 20
-kingdoms,
+kingdoms
+0 0
+,
 0 16
 which
 3 1i
@@ -5624,7 +6186,9 @@ a
 0 1c
 unified
 0 26
-nation.
+nation
+0 0 1
+.
 x 1f
 These
 0 f
@@ -5652,7 +6216,9 @@ French
 3 o
 in
 0 3l
-1066.
+1066
+0 0 1
+.
 26 1c
 So
 0 l
@@ -5678,9 +6244,13 @@ sound
 0 1l
 like?
 x 16
-Well,
+Well
+0 0
+,
 0 23
-fortunately,
+fortunately
+0 0
+,
 0 l
 we
 0 o
@@ -5708,7 +6278,9 @@ of
 0 c
 the
 0 3c
-Anglo-Saxons.
+Anglo-Saxons
+0 0 1
+.
 x 16
 One
 0 9
@@ -5738,7 +6310,9 @@ composed
 0 c
 in
 0 1x
-English.
+English
+0 0 1
+.
 19 13
 You
 0 f
@@ -5758,7 +6332,9 @@ class
 0 c
 in
 0 1r
-school.
+school
+0 0 1
+.
 3 1f
 It's
 0 i
@@ -5770,7 +6346,9 @@ poem
 0 1o
 called
 3 2i
-Beowulf.
+Beowulf
+0 0 1
+.
 1h r
 And
 0 i
@@ -5788,7 +6366,9 @@ you
 0 r
 read
 0 o
-it,
+it
+0 0
+,
 0 l
 you
 0 i
@@ -5814,7 +6394,9 @@ see
 0 f
 and
 0 1o
-hear,
+hear
+0 0
+,
 0 13
 old
 0 10
@@ -5864,7 +6446,9 @@ to
 0 u
 modern
 3 1r
-ears.
+ears
+0 0 1
+.
 13 1r
 Remember
 0 9
@@ -5914,7 +6498,9 @@ be
 0 1f
 mutually
 0 2i
-understood.
+understood
+0 0 1
+.
 2d u
 So
 0 i
@@ -5940,7 +6526,9 @@ in
 0 x
 Modern
 0 1u
-English.
+English
+0 0 1
+.
 34 1x
 So
 3 o
@@ -5976,7 +6564,9 @@ courage
 0 c
 and
 0 23
-greatness.
+greatness
+0 0 1
+.
 3 x
 We
 0 f
@@ -5988,13 +6578,19 @@ of
 0 o
 those
 0 1i
-princes,
+princes
+0 0
+,
 0 1l
 heroic
 0 3f
-campaigns.
+campaigns
+0 0 1
+.
 20 x
-Now,
+Now
+0 0
+,
 0 o
 here's
 0 9
@@ -6012,9 +6608,13 @@ original
 0 o
 Old
 0 1u
-English.
+English
+0 0 1
+.
 38 1s
-Plateway.
+Plateway
+0 0 1
+.
 2 26
 Gardiner
 f 16
@@ -6022,29 +6622,43 @@ and
 0 13
 Gerard
 0 1o
-Ogam.
+Ogam
+0 0 1
+.
 3 1l
 They
 0 d
 had
 2 w
-cunning.
+cunning
+0 0 1
+.
 1 l
-Arthur.
+Arthur
+0 0 1
+.
 0 10
 William
 e 1v
-Ronan.
+Ronan
+0 0 1
+.
 b 1j
-Hawthorn.
+Hawthorn
+0 0 1
+.
 3 1i
 Atheling
 0 i
 as
 0 13
-Alien.
+Alien
+0 0 1
+.
 0 2c
-Fremden.
+Fremden
+0 0 1
+.
 3j r
 As
 0 c
@@ -6052,7 +6666,9 @@ you
 0 f
 can
 0 u
-hear,
+hear
+0 0
+,
 0 10
 there's
 0 u
@@ -6076,7 +6692,9 @@ modern
 0 16
 English
 3 26
-ears.
+ears
+0 0 1
+.
 19 1f
 Let's
 0 x
@@ -6118,7 +6736,9 @@ I
 0 l
 read
 0 1u
-earlier.
+earlier
+0 0 1
+.
 2t 2h
 Barrier
 m 16
@@ -6138,7 +6758,9 @@ sit
 0 9
 in
 0 16
-Narnia.
+Narnia
+0 0 1
+.
 10 13
 Good
 3 10
@@ -6148,7 +6770,9 @@ become
 0 6
 a
 0 r
-thin,
+thin
+0 0
+,
 0 1c
 rich
 q 1v
@@ -6212,7 +6836,9 @@ guilt
 0 c
 and
 0 1i
-doom.
+doom
+0 0 1
+.
 13 23
 Arnay
 0 z
@@ -6224,7 +6850,9 @@ us
 0 l
 on
 0 10
-course.
+course
+0 0 1
+.
 3 13
 Nonya
 19 29
@@ -6232,9 +6860,13 @@ Acalissus
 0 1i
 Survival
 c 2l
-Suleika.
+Suleika
+0 0 1
+.
 3m 10
-Again,
+Again
+0 0
+,
 0 o
 this
 0 u
@@ -6248,7 +6880,9 @@ from
 0 u
 modern
 0 1t
-English.
+English
+0 0 1
+.
 1 1i
 It's
 0 1c
@@ -6272,7 +6906,9 @@ familiar
 0 10
 as
 0 1u
-English.
+English
+0 0 1
+.
 25 u
 As
 0 c
@@ -6280,7 +6916,9 @@ I
 0 l
 said
 0 1l
-earlier,
+earlier
+0 0
+,
 0 16
 even
 0 l
@@ -6300,7 +6938,9 @@ English
 0 9
 in
 0 2r
-pronunciation,
+pronunciation
+0 0
+,
 0 13
 it
 0 o
@@ -6320,7 +6960,9 @@ vocabulary
 0 c
 and
 0 1u
-grammar.
+grammar
+0 0 1
+.
 l 1i
 But
 0 o
@@ -6332,7 +6974,9 @@ to
 0 u
 old
 0 1f
-English,
+English
+0 0
+,
 0 10
 it
 0 1l
@@ -6344,7 +6988,9 @@ pronunciation
 0 r
 nor
 0 1u
-grammar,
+grammar
+0 0
+,
 0 1f
 and
 0 9
@@ -6392,19 +7038,25 @@ recognizable
 0 l
 to
 0 1i
-us.
+us
+0 0 1
+.
 1r 1l
 Avila
 0 16
 is
 0 1l
-evil.
+evil
+0 0 1
+.
 u 23
 Father
 0 r
 is
 0 1x
-Father.
+Father
+0 0 1
+.
 16 x
 Era
 0 1c
@@ -6412,25 +7064,33 @@ is
 0 1r
 our
 9 1n
-heaven.
+heaven
+0 0 1
+.
 1 i
 M
 3 x
 is
 0 1x
-heaven.
+heaven
+0 0 1
+.
 r 1x
 Earthen
 0 13
 is
 0 1m
-Earth.
+Earth
+0 0 1
+.
 2 2l
 Forgive
 3 1f
 is
 0 2i
-forgive.
+forgive
+0 0 1
+.
 1k 1l
 So
 0 o
@@ -6450,7 +7110,9 @@ to
 0 1o
 here?
 1q 16
-Well,
+Well
+0 0
+,
 0 x
 that's
 0 c
@@ -6482,7 +7144,9 @@ this
 0 1r
 podcast
 0 29
-series.
+series
+0 0 1
+.
 16 10
 I'm
 0 u
@@ -6500,13 +7164,17 @@ to
 0 9
 the
 0 1u
-beginning,
+beginning
+0 0
+,
 0 x
 the
 0 x
 very
 0 1r
-beginning,
+beginning
+0 0
+,
 3 u
 to
 0 c
@@ -6524,7 +7192,9 @@ English
 0 1u
 ultimately
 0 26
-derived.
+derived
+0 0 1
+.
 3 u
 The
 0 13
@@ -6536,17 +7206,23 @@ ancestor
 0 c
 of
 0 1o
-English,
+English
+0 0
+,
 0 x
 the
 0 20
 Indo-European
 0 20
-language.
+language
+0 0 1
+.
 l x
 Of
 0 o
-course,
+course
+0 0
+,
 0 i
 this
 0 f
@@ -6576,7 +7252,9 @@ languages
 0 f
 of
 0 1l
-Europe,
+Europe
+0 0
+,
 0 10
 as
 0 l
@@ -6596,7 +7274,9 @@ of
 0 19
 Central
 0 1c
-Asia,
+Asia
+0 0
+,
 0 20
 including
 0 2c
@@ -6604,7 +7284,9 @@ Sanskrit
 0 o
 and
 0 1r
-Persian.
+Persian
+0 0 1
+.
 45 x
 Over
 0 9
@@ -6620,7 +7302,9 @@ of
 0 9
 the
 0 29
-podcast,
+podcast
+0 0
+,
 0 r
 I'm
 0 r
@@ -6658,7 +7342,9 @@ Anglo-Saxons
 0 c
 in
 0 1r
-Britain.
+Britain
+0 0 1
+.
 x 1i
 This
 0 f
@@ -6672,7 +7358,9 @@ of
 0 v
 pre
 5 20
-English,
+English
+0 0
+,
 0 13
 and
 0 l
@@ -6716,7 +7404,9 @@ many
 0 r
 different
 0 2f
-languages.
+languages
+0 0 1
+.
 0 19
 But
 0 13
@@ -6740,7 +7430,9 @@ common
 0 2l
 Indo-European
 0 2l
-ancestry.
+ancestry
+0 0 1
+.
 u 13
 The
 0 16
@@ -6748,17 +7440,25 @@ Germanic
 0 20
 languages
 0 1x
-Greek,
+Greek
+0 0
+,
 0 20
-Latin,
+Latin
+0 0
+,
 0 20
-French,
+French
+0 0
+,
 3 r
 the
 0 16
 Celtic
 0 20
-languages,
+languages
+0 0
+,
 3 x
 they
 0 x
@@ -6772,7 +7472,9 @@ this
 0 16
 common
 0 23
-source.
+source
+0 0 1
+.
 c 1r
 So
 0 f
@@ -6792,7 +7494,9 @@ history
 0 c
 of
 0 1l
-English,
+English
+0 0
+,
 0 u
 you
 0 l
@@ -6806,7 +7510,9 @@ this
 0 1o
 essential
 0 1x
-period.
+period
+0 0 1
+.
 1n f
 I
 0 f
@@ -6858,7 +7564,9 @@ the
 0 10
 Norman
 0 1u
-French.
+French
+0 0 1
+.
 l 1o
 That's
 0 9
@@ -6870,11 +7578,15 @@ of
 0 r
 old
 0 1u
-English.
+English
+0 0 1
+.
 u 1o
 After
 0 x
-that,
+that
+0 0
+,
 0 f
 we
 0 f
@@ -6918,7 +7630,9 @@ King
 0 x
 James
 0 23
-Bible.
+Bible
+0 0 1
+.
 c 1r
 That's
 0 c
@@ -6930,7 +7644,9 @@ of
 0 10
 Middle
 0 1u
-English.
+English
+0 0 1
+.
 10 13
 And
 0 o
@@ -6988,19 +7704,25 @@ to
 0 o
 North
 0 1u
-America,
+America
+0 0
+,
 3 o
 the
 0 x
 Indian
 0 2f
-subcontinent,
+subcontinent
+0 0
+,
 0 23
 Australia
 0 o
 and
 0 2c
-beyond.
+beyond
+0 0 1
+.
 3 1r
 That's
 0 9
@@ -7012,9 +7734,13 @@ of
 0 16
 modern
 0 1r
-English.
+English
+0 0 1
+.
 r 30
-Collectively,
+Collectively
+0 0
+,
 0 19
 that's
 0 f
@@ -7024,7 +7750,9 @@ story
 0 c
 of
 0 1u
-English.
+English
+0 0 1
+.
 29 16
 So
 3 c
@@ -7036,7 +7764,9 @@ this
 0 1l
 introductory
 0 20
-episode,
+episode
+0 0
+,
 0 i
 I
 0 f
@@ -7058,7 +7788,9 @@ quick
 0 1i
 housekeeping
 0 1y
-matter.
+matter
+0 0 1
+.
 2 13
 I
 0 f
@@ -7082,7 +7814,9 @@ for
 0 i
 this
 0 29
-podcast.
+podcast
+0 0 1
+.
 3 1i
 History
 0 c
@@ -7090,7 +7824,11 @@ of
 0 x
 English
 0 4k
-Podcast.com.
+Podcast
+0 0 1
+.com
+0 0 1
+.
 1 1f
 Each
 0 19
@@ -7150,7 +7888,9 @@ in
 0 c
 the
 0 26
-episode.
+episode
+0 0 1
+.
 1m 10
 So
 0 r
@@ -7158,7 +7898,9 @@ until
 0 r
 next
 0 1i
-time,
+time
+0 0
+,
 0 1f
 thanks
 0 f
@@ -7176,4 +7918,6 @@ of
 0 u
 English
 0 2f
-podcast.
+podcast
+0 0 1
+.
